@@ -1,0 +1,68 @@
+body{
+    background-image: url(img/phon.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+h1{
+    color: rgb(209, 8, 132, 5);
+    font-weight: 800;
+}
+
+.block{
+    text-align: center;
+}
+
+#text{
+    
+    width: 50%;
+    height: 40px;
+    background: rgb(255, 255, 255);
+    border: none;
+    outline: none;
+    font-size:20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+}
+
+.but{
+    margin-left: 10px;
+    width: 50px;
+    height: 30px;
+    background: greenyellow;
+    border-radius: 6px;
+    border: none;
+    color: royalblue;
+    font-weight: 700;
+}
+
+.quest{
+    display: block;
+    width: 30%;
+    height: 40px;
+    background: rgb(15, 214, 114);
+    border-radius: 10px;
+    font-size:25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     margin: 50px auto;
+}
+
+.bu{
+    position: absolute;
+    margin-left: 1320px;
+    margin-top: -80px;
+    background:greenyellow ;
+    color: royalblue;
+    font-weight: 700;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+
+
+}
+
+@media (max-width:1024px) {
+    .bu{
+        margin-left: 680px;
+    }
+}
