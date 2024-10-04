@@ -1,0 +1,10 @@
+C:\Project\GeneratorPasword\bin\Debug\GeneratorPasword.exe.config
+C:\Project\GeneratorPasword\bin\Debug\GeneratorPasword.exe
+C:\Project\GeneratorPasword\bin\Debug\GeneratorPasword.pdb
+C:\Project\GeneratorPasword\obj\Debug\GeneratorPasword.csproj.AssemblyReference.cache
+C:\Project\GeneratorPasword\obj\Debug\GeneratorPasword.Form1.resources
+C:\Project\GeneratorPasword\obj\Debug\GeneratorPasword.Properties.Resources.resources
+C:\Project\GeneratorPasword\obj\Debug\GeneratorPasword.csproj.GenerateResource.cache
+C:\Project\GeneratorPasword\obj\Debug\GeneratorPasword.csproj.CoreCompileInputs.cache
+C:\Project\GeneratorPasword\obj\Debug\GeneratorPasword.exe
+C:\Project\GeneratorPasword\obj\Debug\GeneratorPasword.pdb
